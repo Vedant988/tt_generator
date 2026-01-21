@@ -1,0 +1,118 @@
+
+    You are a data cleaning assistant. I will give you a list of strings from a timetable.
+    
+    Your Goal: Extract the CLEAN SUBJECT CODE/NAME and group variations.
+    
+    RULES FOR CLEANING:
+    1. **THE "FIRST WORD" RULE**: The Subject is almost always the **FIRST WORD** of the string.
+       - Delimiters: Space, Hyphen (-), Parenthesis, Newline.
+       - Example: "DIP-TJ" -> "DIP", "Radar (301)" -> "Radar", "DnM
+SD" -> "DnM".
+    2. **HANDLING SLASHes (/)**: If a string contains '/', it means TWO subjects. Use the "First Word" rule for each part.
+       - "DIP-TJ / FML-ND" -> "DIP" and "FML".
+    3. REMOVE FACULTY/ROOMS: "Dr.", "Mr.", "(301)", "CR-2" are NOT subjects.
+    4. EXCLUDE JUNK: "Branch", "Semester", "Lunch".
+    
+    Output Format:
+    JSON Object {"Clean_Subject_Name": ["original_string_1", "original_string_2"]}
+    
+    Raw Values to Process:
+    - 2D3D
+CSH-VI
+- AC-BVN
+- AC-RP
+- AICF-NS
+- AP
+CSE-II-A
+Mrs. Puja
+- AP
+CSE-II-B
+Mrs. Ruchira
+- AP
+Mrs. Ruchira
+- BME (301)
+- CA (202)
+- CAO-MP
+- CF
+CSE
+- CMOS - MT
+- CMOS - MT (301)
+- CMOS - PP
+- COMSK
+Visiting Faculty-Eng
+- COMSK (CSE-II-AIML)
+Visiting Faculty-Eng
+- COMSYS-GG
+- CS-RS
+- CSA
+- CSD-VIII
+- CSE
+- CSE-AIML
+- CSE-DS
+- CSE-HCIGT
+- DBMS
+- DE - Rajanish Singh
+- DE - Rashmi Ranjan
+- DE-PP
+- DE-TJ
+- DIP - TJ (301)
+- DS
+Mrs. Ruchira
+- DSDH-SD
+- DSP-PS
+- DSPA-NA
+- Digital Wellness in CR 203
+- DnM - SD (301)
+- ECE
+- ECE-IoT
+- EE (307)
+- EE in Seminar hall
+- EIKS in CR 306
+- EM-GG
+- EM-SB
+- FML - ND (002)
+- GPU
+CSH-VI
+- GenAI
+CSA
+- HCI
+CSE
+- IE
+- II
+- INTEC - ND
+- INTEC-ND
+- IV
+- IoT Sec - TM (002)
+- IoT Sec - TM (301)
+- MDS in 001 and 101
+- MEMS - MT - 301
+- MPMC-SM
+- NFT
+- NFT in CR302
+- NLUG
+CSE
+- NNDL
+CSE
+- NT (002)
+- OC-EE
+- PI - HG (002)
+- Radar -BVN (301)
+- Role of Leadership in CR306
+- SDA
+- SE
+CSE-IV-A
+Mrs Prajakta
+- SE
+CSE-IV-B
+Mrs. Prajakta
+- STE
+CSE
+- TIS- 1 CSE, CSA - seminar hall
+ 
+TIS- 2 - CSD, CSH - CR-306
+- VI
+- VIII
+- WC - TM
+- WC - TM in seminar Hall
+- WSN - RR (002)
+    

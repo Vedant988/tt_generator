@@ -1,0 +1,662 @@
+Classroom No.,Days,,8:00-8:55 AM,9:00-9:55 AM,10.00-10.55 AM,11.00-11.55 AM,12.00-12.55 PM,1.00-1.55 PM,2.00-2.55 PM,3.00-3.55 PM,4.00-4.55 PM,5.00-5.55 PM,
+,,,,,"भारतीय सूचना प्रौद्योगिकी संस्थान, नागपुर.
+Indian Institute of Information Technology, Nagpur.",,,,,,,,
+,,,,,"सत्र 2025-26 के विषम सेमेस्टर के व्याख्यान के लिए संस्थान समय सारणी।
+Institute Time Table for Lectures of Even Semester of Session 2025-26.",,,,,,,,
+,,,,,Semester,,,,,,,,
+,,,Branch,Section,II,,IV,,VI,,VIII,,
+,,,,,First Half,Second Half,First Half,Second Half,First Half,Second Half,First Half,Second Half,
+,,,CSE,A,,HALL-1,CR-307,,CR-306,,CR-302,,
+,,,,B,HALL-1,,,CR-307,CR-306,,,CR-303,
+,,,,C,,HALL-2,CR-204,,CR-204/CR-303,,,CR-001,
+,,,CSE-AIML,,CR-304,,,CR-203,CR-203,,CR-303,,
+,,,CSE-DS,,,CR-102,CR-102,,CR-305,,CR-303,,
+,,,CSE-HCIGT,,HALL-2,,,CR-304,CR-001,,,CR-101,
+,,,ECE,A,,CR-201,CR-202,,CR-301,,,CR-002,
+,,,,B,CR-201,,,CR-202,,CR-302,,CR-002,
+,,,ECE-IoT,,CR-101,,,CR-305,,CR-301,CR-002,,
+,,,Digital Wellness in CR 203,MDS in 001 and 101,EE in Seminar hall ,"TIS- 1 CSE, CSA - seminar hall
+ 
+TIS- 2 - CSD, CSH - CR-306",EIKS in CR 306,Role of Leadership in CR306,NFT in CR302,"SA-1: CSE A section + half of B
+SA-2: Remaining half of B + CSE C",,,
+Classroom No.,Days,6:00-7:00,8:00-8:55 AM,9:00-9:55 AM,10.00-10.55 AM,11.00-11.55 AM,12.00-12.55 PM,1.00-1.55 PM,2.00-2.55 PM,3.00-3.55 PM,4.00-4.55 PM,5.00-5.55 PM,
+CR-002,Monday,,EE (307),,DnM - SD (301) / WSN - RR (002),DIP - TJ (301) / FML - ND (002) ,BME (301) / NT (002),,IoT Sec - TM (002) / CMOS - MT (301),PI - HG (002) / MEMS - MT - 301,,Radar -BVN (301) / CA (202),
+,Tuesday,,EE (307),PI - HG (002) / MEMS - MT - 301,,DIP - TJ (301) / FML - ND (002) ,,,IoT Sec - TM (002) ,,,BME (301) / NT (002),
+,Wednesday,,EE (307),Radar -BVN (301) / CA (202),DIP - TJ (301) / FML - ND (002),BME (301) / NT (002),PI - HG (002) / MEMS - MT - 301,,,,,,
+,Thursday,,,Radar -BVN (301) / CA (202),,,,,DnM - SD (301) / WSN - RR (002),,,,
+,Friday,,,,DnM - SD (301) / WSN - RR (002),,,,,,,,
+CR-001,Monday,,,"2D3D
+CSH-VI
+Mr. Prajwal","AVR
+CSH-VI
+Mr. Rahul",,,,"THCI
+CSH-VIII
+Ms. Kaveri","IPC
+CSE-VIII
+Dr. Nilesh","MDS-1
+Dr. Nishant Kumar",,
+,Tuesday,,,"2D3D
+CSH-VI
+","AVR
+CSH-VI
+Mr. Rahul",,,,"THCI
+CSH-VIII
+Ms. Kaveri","IPC
+CSE-VIII
+Dr. Nilesh","MDS-1
+Dr. Nishant Kumar",,
+,Wednesday,,,,,"CVT
+CSH-VI
+Dr. Mangesh",,,"THCI
+CSH-VIII
+Ms. Kaveri","ID
+CSH-VIII
+Dr. Varsha",,,
+,Thursday,,,,"GPU
+CSH-VI/CSD-VIII/CSA-VIII
+Dr. Mayuri","CVT
+CSH-VI
+Dr. Mangesh","MDS-1
+Dr. Nishant Kumar",,,"ID
+CSH-VIII
+Dr. Varsha",,,
+,Friday,,,,"GPU
+CSH-VI/CSD-VIII/CSA-VIII
+Dr. Mayuri","CVT
+CSH-VI
+Dr. Mangesh",,,"DMGT Tut
+CSE-IV-A
+Mr. Adil","ID
+CSH-VIII
+Dr. Varsha",,,
+,Saturday,,,"2D3D
+CSH-VI",,,"AVR
+CSH-VI
+Mr. Rahul",,,,,,
+CR-101,Monday,,,,"NMPT 
+Dr. Charu Goel","NMPT-Tute-1
+Dr. Charu Goel","MDS-2
+Dr. Naresh Kumar",INTEC - ND,"AP
+CSE-II-B
+Mrs. Ruchira","AI
+(CSH-VIII)
+Ms. Dipti",,,
+,Tuesday,,,INTEC-ND,"NMPT
+Dr. Charu Goel",DSDH-SD,"MDS-2
+Dr. Naresh Kumar","DS
+Ms. Dipti Pawade",,"AI
+(CSH-VIII)
+Ms. Dipti",,,
+,Wednesday,,,"DS
+Ms. Dipti Pawade","NMPT
+Dr. Charu Goel",DSDH-SD,"MDS-2
+Dr. Naresh Kumar",INTEC - ND,AICF-NS,,,,
+,Thursday,,,"NMPT-Tute-2
+Dr. Charu Goel",DSDH-SD,AICF-NS,"COMSK
+Visiting Faculty-Eng",,"AI
+(CSH-VIII)
+Ms. Dipti",,,,
+,Friday,,,,"DS
+Ms. Dipti Pawade",AICF-NS,,"COMSK
+Visiting Faculty-Eng",,,,,
+CR-102,Monday,,,"WA
+Mr. Prasad","DAA
+Dr. Jitendra","OS
+Dr. Richa in seminar hall",-,,"ILA
+Dr. Kamaljeet/Dr. Daud",AE - Dr. Nelson,"PS Tute-1
+Dr. Ujwal Watbhe","DS
+Dr. Snehal Shinde",
+,Tuesday,,,"WA
+Mr. Prasad","DAA
+Dr. Jitendra","FOC
+Mr. Pravin",,,"DS
+Dr. Snehal Shinde","PS
+Dr. Ujwal Watbhe","ILA
+Dr. Kamaljeet/Dr. Daud",AE - Dr. Nelson,
+,Wednesday,,,"SDA
+Mr. Angad","OS
+Dr. Richa in seminar hall","DAA
+Dr. Jitendra","FOC
+Mr. Pravin",,IE,,,,
+,Thursday,,,"SDA
+Mr. Angad","FOC
+Mr. Pravin","WA
+Mr. Prasad",-,,"PS
+Dr. Ujwal Watbhe","DS
+Dr. Snehal Shinde","ILA Tute-1
+Dr. Kamaljeet/Dr. Daud","ILA Tute-2
+Dr. Kamaljeet/Dr. Daud",
+,Friday,,,"SDA
+Mr. Angad","OS
+Dr. Richa in seminar hall",,,,"ILA
+Dr. Kamaljeet/Dr. Daud",AE - Dr. Nelson,"PS
+Dr. Ujwal Watbhe","PS Tute-2
+Dr. Ujwal Watbhe",
+CR-201,Monday,,,,"AP
+Ms. Kaveri Deosarkar",DE-PP,B,"DS
+ECE-II-B
+Dr. Neha in seminar hall","MTTDE
+Dr. Naresh Kumar",DE-TJ,"AS
+Dr. Aatish Daryapurkar",,
+,Tuesday,YOGA,,"MTTDE-Tut-B1
+Dr. Preeti","MTTDE
+Dr. Preeti",DE-PP,R,"AS
+Dr. Shailesh Janbandhu","AS
+Dr. Aatish Daryapurkar","EVS
+Dr. Shailesh Janbandhu",DE-TJ,"AP
+ECE-II-A
+Ms. Kaveri",
+,Wednesday,YOGA (Day Scholar),,"AP
+Ms. Kaveri Deosarkar","EVS
+Dr. Shailesh Janbandhu",DE-PP,,"AP
+Ms. Kaveri Deosarkar","MTTDE
+Dr. Naresh Kumar","AP
+ECE-II-A
+Ms. Kaveri",,,
+,Thursday,YOGA,,"EVS
+Dr. Shailesh Janbandhu","AS
+Dr. Shailesh Janbandhu","DS
+ECE-II-B
+Dr. Neha in seminar hall",A,"MTTDE
+Dr. Preeti","AP
+ECE-II-A
+Ms. Kaveri","EVS
+Dr. Shailesh Janbandhu","DS
+Dr. Vasundhara in seminar hall","MTTDE-Tut-A2
+Dr. Naresh Kumar",
+,Friday,,,"MTTDE
+Dr. Preeti","MTTDE-Tut-B2
+Dr. Preeti","DS
+ECE-II-B
+Dr. Neha in seminar hall",K,"AS
+Dr. Shailesh Janbandhu","MTTDE-Tut-A1
+Dr. Naresh Kumar",DE-TJ,"MTTDE
+Dr. Naresh Kumar","AS
+Dr. Aatish Daryapurkar",
+CR-202,Monday,,,,"CS
+Dr. C. Sakode",AC-RP,B,DSP-PS,AC-BVN,DSP-PS,CS-RS,Radar -BVN (301) / CA (202),
+,Tuesday,,,,AC-RP,DSP-PS,R,CAO-MP,CAO-MP,DSP-PS,AC-BVN,,
+,Wednesday,,,Radar -BVN (301) / CA (202),DSP-PS,CAO-MP,E,EM-SB,DSP-PS,CAO-MP,EM-GG,,
+,Thursday,,,Radar -BVN (301) / CA (202),CAO-MP,EM-SB,A,"CS
+Dr. C. Sakode",CAO-MP,EM-GG,CS-RS,,
+,Friday,,,,EM-SB,"CS
+Dr. C. Sakode",K,AC-RP,CS-RS,EM-GG,AC-BVN,,
+CR-203,Monday,,,,"RL
+Dr. Suvra","OTML
+Mr. Pravin","DW
+Dr. Richa","DMGT Tut
+CSE-IV-C
+Mr. Adil","DAA
+Dr. Kaushalendra","SE
+Ms. Puja","DBMS
+Dr. Rahul","OS
+Dr. Mangesh",
+,Tuesday,,,"RL
+Dr. Suvra","PDC
+Dr. Nilesh","NNDL
+Dr. Snehal","DW
+Dr. Richa",,"ML
+Dr. Amol","SE
+Ms. Puja","OS
+Dr. Mangesh",,
+,Wednesday,,,"PDC
+Dr. Nilesh","NNDL
+Dr. Snehal","RL
+Dr. Suvra","DW
+Dr. Richa",,"ML
+Dr. Amol","DAA
+Dr. Kaushalendra","DBMS
+Dr. Rahul",,
+,Thursday,,,"OTML
+Mr. Pravin","NNDL
+Dr. Snehal","PDC
+Dr. Nilesh",,,"SE
+Ms. Puja","DBMS
+Dr. Rahul","ML
+Dr. Amol",,
+,Friday,,,,"OTML
+Mr. Pravin",,,,"OS
+Dr. Mangesh","DAA
+Dr. Kaushalendra",,,
+CR-204,Monday,,,"DMGT Tut
+CSE-IV-C
+Mr. Adil","OS
+CSE-IV-C
+Dr. Mayuri","DAA
+CSE-IV-C
+Dr. Rahul","DMGT
+CSE-IV-C
+Mr. Adil",,"SA-1
+CSE-VI
+Ms. Komal","ML-1
+CSE-VI
+Dr. Amol",,,
+,Tuesday,,,"DAA
+CSE-IV-C
+Dr. Rahul","OS
+CSE-IV-C
+Dr. Mayuri","SE
+CSE-IV-C
+Ms. Komal","DMGT
+CSE-IV-C
+Mr. Adil",,"SA-1
+CSE-VI
+Ms. Komal","ML-1
+CSE-VI
+Dr. Amol",,,
+,Wednesday,,,"DPPL
+CSE-IV-C
+Mr. Vaibhav","SE
+CSE-IV-C
+Ms. Komal","DAA
+CSE-IV-C
+Dr. Rahul",,,"SA-1
+CSE-VI
+Ms. Komal","CNS
+CSE-VI-C
+Dr. Aishwarya","BDA
+CSE-VI
+Ms. Roma","SA-2
+CSE-VI
+Ms. Vaibhav",
+,Thursday,,,"DPPL
+CSE-IV-C
+Mr. Vaibhav","SE
+CSE-IV-C
+Ms. Komal","OS
+CSE-IV-C
+Dr. Mayuri",,,"ML-1
+CSE-VI
+Dr. Amol","CNS
+CSE-VI-C
+Dr. Aishwarya","BDA
+CSE-VI
+Ms. Roma",,
+,Friday,,,,"DPPL
+CSE-IV-C
+Mr. Vaibhav","DMGT
+CSE-IV-C
+Mr. Adil",,,"Compiler
+CSE-VI-C
+Dr. Anil","CNS
+CSE-VI-C
+Dr. Aishwarya","BDA
+CSE-VI
+Ms. Roma",,
+CR-301,Monday,,EE (307),WC - TM in seminar Hall,DnM - SD (301) / WSN - RR (002),DIP - TJ (301) / FML - ND (002) ,BME (301) / NT (002),,IoT Sec - TM (002) / CMOS - MT (301),PI - HG (002) / MEMS - MT - 301,"NFT
+Dr. Sakode",Radar -BVN (301) / CA (202),
+,Tuesday,,EE (307),PI - HG (002) / MEMS - MT - 301,,WC - TM in seminar Hall,DIP - TJ (301) / FML - ND (002) ,,"DCS
+CSE-VIII
+Dr. Milind",,"NFT
+Dr. Sakode",BME (301) / NT (002),
+,Wednesday,,EE (307),Radar -BVN (301) / CA (202),DIP - TJ (301) / FML - ND (002),BME (301) / NT (002),PI - HG (002) / MEMS - MT - 301 / NFT,,,,,,
+,Thursday,,,Radar -BVN (301) ,,CMOS - MT,,IoT Sec - TM (301) ,DnM - SD (301) / WSN - RR (002),WC - TM in seminar Hall,,,
+,Friday,,,,DnM - SD (301) / WSN - RR (002),CMOS - MT,,,,IoT Sec - TM (301) ,,,
+CR-302,Monday,,,"IPC
+CSE-VIII
+Dr. Nilesh","STE
+CSE/CSA-VIII
+Dr. Vrinda","NLUG
+CSE/CSD-VIII
+Dr. Neha",,,CMOS - PP,SDA,,,
+,Tuesday,,"HCI
+CSE/CSA-VIII
+Mr. Angad",,"STE
+CSE/CSA-VIII
+Dr. Vrinda","CF
+CSE/CSA/CSH-VIII
+Mr. Sahu",,,CMOS - PP,,,,
+,Wednesday,,,"CF
+CSE/CSA/CSH-VIII
+Mr. Sahu","NLUG
+CSE/CSD-VIII
+Dr. Neha","STE
+CSE/CSA-VIII
+Dr. Vrinda",,,,,,,
+,Thursday,,"HCI
+CSE/CSA-VIII
+Mr. Angad",,"NNDL
+CSE/CSH-VIII
+Dr. Tausif","NNDL
+CSE/CSH-VIII
+Dr. Tausif",,,,,,,
+,Friday,,"HCI
+CSE/CSA-VIII
+Mr. Angad",,"NNDL
+CSE/CSH-VIII
+Dr. Tausif","CF
+CSE/CSA/CSH-VIII
+Mr. Sahu","NLUG
+CSE/CSD-VIII
+Dr. Neha",,,CMOS - PP,,,
+CR-303,Monday,,,,"BI
+CSD-VIII
+Dr. Khushnoo","Compiler
+CSE-VI-C
+Dr. Anil","GenAI
+CSA/CSD-VIII
+Dr. Swati",,"IS
+CSE-VIII
+Dr. Nishat","DCS
+CSE-VIII
+Dr. Milind",,,
+,Tuesday,,,,"BI
+CSD-VIII
+Dr. Khushnoo","Compiler
+CSE-VI-C
+Dr. Anil","GenAI
+CSA/CSD-VIII
+Dr. Swati","AP
+Ms. Akanksha","IS
+CSE-VIII
+Dr. Nishat",,,,
+,Wednesday,,,,,,"GenAI
+CSA/CSD-VIII
+Dr. Swati",,,"Compiler
+CSE-VI-A
+Dr. Jagdish",,,
+,Thursday,,,,,,"BI
+CSD-VIII
+Dr. Khushnoo",,"COMSK (CSE-II-AIML)
+Visiting Faculty-Eng",,,,
+,Friday,,,,,,,,"DCS
+CSE-VIII
+Dr. Milind","IS
+CSE-VIII
+Dr. Nishat",,,
+CR-304,Monday,,,,"AP
+Ms. Akanksha","ILA
+Dr. Kamaljeet",B,"COMSK
+Visiting Faculty-Eng","HCI
+Mr. Manoj","DAA
+Dr. Anil","NMPT
+Dr. Charu Goel",,
+,Tuesday,,,,"DS
+Mrs. Ruchira","PS
+Dr. Ujwal Watbhe","PS Tute-1
+Dr. Ujwal Watbhe",Break for AIML,"DAA
+Dr. Anil","NMPT
+Dr. Charu Goel","NMPT Tute-2
+Dr. Charu Goel",,
+,Wednesday,,,,"ILA
+Dr. Kamaljeet","PS
+Dr. Ujwal Watbhe",E,"DS
+Mrs. Ruchira","DAA
+Dr. Anil","SEGT
+Dr. Vrinda","NMPT
+Dr. Charu Goel","NMPT Tute-1
+Dr. Charu Goel",
+,Thursday,,,,"PS Tute-2
+Dr. Ujwal Watbhe","PS
+Dr. Ujwal Watbhe",A,"AP
+Ms. Akanksha","OS
+Dr. Varsha","HCI
+Mr. Manoj","SEGT
+Dr. Vrinda","OS
+Dr. Varsha",
+,Friday,,,"ILA-Tute-1
+Dr. Kamaljeet","ILA-Tute-2
+Dr. Kamaljeet","ILA
+Dr. Kamaljeet","DS
+Mrs. Ruchira",,"SEGT
+Dr. Vrinda","HCI
+Mr. Manoj","OS
+Dr. Varsha",,
+CR-305,Monday,,,"DT
+Mr. Prasanna","CVDL
+Dr. Jagdish","DMW
+Ms. Aparna",,,MPMC-SM,COMSYS-GG,DBMS,,
+,Tuesday,,,"CVDL
+Dr. Jagdish","BDA
+Ms. Roma","DMW
+Ms. Aparna",,,DBMS,COMSYS-GG,DSPA-NA,,
+,Wednesday,,,"DT
+Mr. Prasanna","DMW
+Ms. Aparna",,,,COMSYS-GG,DSPA-NA,"MDI
+Dr. Prasad Joshi",,
+,Thursday,,,"DT
+Mr. Prasanna","CVDL
+Dr. Jagdish","BDA
+Ms. Roma",,,DSPA-NA,"MDI
+Dr. Prasad Joshi",MPMC-SM,,
+,Friday,,,,"BDA
+Ms. Roma",,,,"MDI
+Dr. Prasad Joshi",MPMC-SM,DBMS,,
+CR-306,Monday,,,,,,,B,"QC
+CSE-VI
+Dr. Jitendra","ML-2
+Mr. Bharat","EIKS
+Mr. Vikrant","OC-TIS-2
+Mr. Vikrant Dhenge",
+,Tuesday,,,"CNS
+CSE-VI-B
+Dr. Aishwarya",,"Compiler
+CSE-VI-A
+Dr. Jagdish",,R,"QC
+CSE-VI
+Dr. Jitendra","ML-2
+Mr. Bharat","EIKS
+Mr. Vikrant","OC-TIS-2
+Mr. Vikrant Dhenge",
+,Wednesday,,,,"CNS
+CSE-VI-A
+Dr. Shishupal","Compiler
+CSE-VI-A
+Dr. Jagdish",,E,"QC
+CSE-VI
+Dr. Jitendra","Compiler
+CSE-VI-B
+Dr. Khushboo","OC- Role of Leadership 1
+Mr. Vikrant Dhenge","OC- Role of Leadership -2 
+Mr. Vikrant Dhenge",
+,Thursday,,,"CNS
+CSE-VI-B
+Dr. Aishwarya",,"CNS
+CSE-VI-A
+Dr. Shishupal","EIKS
+Mr. Vikrant",A,"ML-2
+Mr. Bharat","Compiler
+CSE-VI-B
+Dr. Khushboo","OC- Role of Leadership 1
+Mr. Vikrant Dhenge","OC- Role of Leadership -2 
+Mr. Vikrant Dhenge",
+,Friday,,,,,"CNS
+CSE-VI-A
+Dr. Shishupal","OC-TIS-2
+Mr. Vikrant Dhenge",K,"CNS
+CSE-VI-B
+Dr. Aishwarya","Compiler
+CSE-VI-B
+Dr. Khushboo","OC- Role of Leadership 1
+Mr. Vikrant Dhenge","OC- Role of Leadership -2 
+Mr. Vikrant Dhenge",
+CR-307,Monday,,,"SE
+CSE-IV-A
+Mrs Prajakta","DPPL
+CSE-IV-A
+Dr. Milind","OS
+CSE-IV-A
+Dr. Richa in seminar hall",,"DAA
+CSE-IV-A
+Dr. Swati","SE
+CSE-IV-B
+Mrs. Prajakta","DAA
+CSE-IV-B
+Dr. Kaushalendra","DMGT
+CSE-IV-B
+Dr. Amit","DMGT Tut
+CSE-IV-B
+Dr. Amit",
+,Tuesday,,,"DAA
+CSE-IV-A
+Dr. Swati","DMGT
+CSE-IV-A
+Mr. Adil","DPPL
+CSE-IV-A
+Dr. Milind",,,"DMGT
+CSE-IV-B
+Dr. Amit","OS
+CSE-IV-B
+Dr. Suvra","DPPL
+CSE-IV-B
+Mr. Bharat",,
+,Wednesday,,,"DMGT Tut
+CSE-IV-A
+Mr. Adil","OS
+CSE-IV-A
+Dr. Richa in seminar hall","SE
+CSE-IV-A
+Mrs Prajakta",,,"DMGT
+CSE-IV-B
+Dr. Amit","OS
+CSE-IV-B
+Dr. Suvra","DAA
+CSE-IV-B
+Dr. Kaushalendra",,
+,Thursday,,,"DMGT 
+CSE-IV-A
+Mr. Adil","SE
+CSE-IV-A
+Mrs Prajakta",,,,"SE
+CSE-IV-B
+Mrs. Prajakta","DMGT Tut
+CSE-IV-B
+Dr. Amit","OS
+CSE-IV-B
+Dr. Suvra","DPPL
+CSE-IV-B
+Mr. Bharat",  
+,Friday,,,"DMGT 
+CSE-IV-A
+Mr. Adil","OS
+CSE-IV-A
+Dr. Richa in seminar hall","DPPL
+CSE-IV-A
+Dr. Milind","DAA
+CSE-IV-A
+Dr. Swati",,"DAA
+CSE-IV-B
+Dr. Kaushalendra","SE
+CSE-IV-B
+Mrs. Prajakta","DPPL
+CSE-IV-B
+Mr. Bharat",,
+Seminar Hall,Monday,,OC-EE,WC - TM,,"OS
+CSE-A+CSD
+Dr. Richa","OC-TIS-1
+Mr. Vikrant Dhenge","DS
+CSE-II-B + ECE-B-II
+Dr. Neha","SA-2
+CSE-VI
+Ms. Vaibhav",,,,
+,Tuesday,,OC-EE,,"DS
+CSE-II-C + ECE-A-II
+Dr. Vasundhara",WC - TM,"OC-TIS-1
+Mr. Vikrant Dhenge",,"SA-2
+CSE-VI
+Ms. Vaibhav",,,,
+,Wednesday,,OC-EE,,"OS
+CSE-A+CSD
+Dr. Richa",,"OC-TIS-1
+Mr. Vikrant Dhenge",,,,,,
+,Thursday,,,,,"DS
+CSE-II-B + ECE-B-II
+Dr. Neha",,,,WC - TM,"DS
+CSE-II-C + ECE-A-II
+Dr. Vasundhara",,
+,Friday,,,"DS
+CSE-II-C + ECE-A-II
+Dr. Vasundhara","OS
+CSE-A+CSD
+Dr. Richa","DS
+CSE-II-B + ECE-B-II
+Dr. Neha",,,,,,,
+Hall-1,Monday,,,"MTTDE
+Dr. Nishant Namdeo","M&G
+Dr. Anup Rajak","AP
+Mrs. Ruchira",B,"DS
+CSE-II-B
+Dr. Neha in seminar hall","M&G
+Dr. Prasad Joshi","DS
+CSE-II-A
+Dr. Vasundhara","COMSK
+Dr. Madhuri Tayade",,
+,Tuesday,,,"M&G
+Dr. Anup Rajak",,"MTTDE
+Dr. Nishant Namdeo",R,DE - Rashmi Ranjan,"DS
+CSE-II-A
+Dr. Vasundhara","COMSK
+Dr. Madhuri Tayade","M&G
+Dr. Prasad Joshi",DE - Rashmi Ranjan,
+,Wednesday,,,DE - Rashmi Ranjan,"MTTDE Tute-B2
+Dr. Nishant Namdeo","AP
+Mrs. Ruchira",E,"M&G
+Dr. Anup Rajak",DE - Rashmi Ranjan,"AP
+CSE-II-A
+Mrs. Puja","MTTDE
+Dr. Preeti / Dr. Nishant","MTTDE Tute-A2
+Dr. Preeti / Dr. Nishant",
+,Thursday,,,"MTTDE Tute-B1
+Dr. Nishant Namdeo",DE - Rashmi Ranjan,"DS
+CSE-II-B
+Dr. Neha in seminar hall",A,"
+COMSK
+Dr. Madhuri Tayade","AP
+CSE-II-A
+Mrs. Puja","M&G
+Dr. Prasad Joshi","MTTDE
+Dr. Preeti / Dr. Nishant","MTTDE Tute-A1
+Dr. Preeti / Dr. Nishant",
+,Friday,,,"MTTDE
+Dr. Nishant Namdeo","COMSK
+Dr. Madhuri Tayade","DS
+CSE-II-B
+Dr. Neha in seminar hall",K,"DS
+CSE-II-A
+Dr. Vasundhara","AP
+CSE-II-A
+Mrs. Puja","MTTDE
+Dr. Preeti / Dr. Nishant",DE - Rashmi Ranjan,"AP
+Ms. Akanksha",
+Hall-2,Monday,,,AE - Dr. Shankar,"DS
+Mr. Sahu","MTTDE
+Dr. Daud",B,"APG
+Dr. Aatish Daryapurkar",DE - Rajanish Singh,"M&G
+Dr. Anup Rajak","MTTDE Tute-C1
+Dr. Daud / Dr. Naresh Kumar",,
+,Tuesday,,,"EVS
+Dr. Shailesh Janbandhu",AE - Dr. Shankar,"APG
+Dr. Aatish Daryapurkar",R,"DS
+Mr. Sahu","MTTDE
+Dr. Daud / Dr. Naresh Kumar","AP
+Dr. Amit","COMSK
+Visiting Faculty-Eng",DE - Rajanish Singh,
+,Wednesday,,,"GDDT
+Mr. Naitik","AP
+Ms. Akanksha",AE - Dr. Shankar,E,"APG
+Dr. Aatish Daryapurkar",,"MTTDE
+Dr. Daud / Dr. Naresh Kumar","AP
+Dr. Amit","M&G
+Dr. Anup Rajak
+",
+,Thursday,,,"GDDT
+Mr. Naitik","AP
+Ms. Akanksha","MTTDE
+Dr. Daud",A,"MTTDE Tute-1
+Dr. Daud","M&G
+Dr. Anup Rajak","MTTDE
+Dr. Daud / Dr. Naresh Kumar","DS
+Dr. Vasundhara in seminar hall",,
+,Friday,,,"MTTDE Tute-2
+Dr. Daud","MTTDE
+Dr. Daud","EVS
+Dr. Shailesh Janbandhu",K,"DS
+Mr. Sahu","AP
+Dr. Amit","MTTDE Tute-C2
+Dr. Daud / Dr. Naresh Kumar","COMSK
+Visiting Faculty-Eng",DE - Rajanish Singh,
+CR Exam,Monday,,,,,,,,,,,,
+Ground Floor,Tuesday,,,,,,,,,,,,
+,Wednesday,,,,,,,,,,,,
+,Thursday,,,,,,,,,,,,
+,Friday,,,,,,,,,,,,

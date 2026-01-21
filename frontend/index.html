@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IIIT Timetable Generator</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <h1 class="title">
+                    <span class="title-icon">📅</span>
+                    IIIT Timetable Generator
+                </h1>
+                <p class="subtitle">AI-Powered Personal Schedule Extractor</p>
+            </div>
+            <div class="status-indicator" id="statusIndicator">
+                <span class="status-dot"></span>
+                <span class="status-text">Checking system...</span>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Step 1: Student Details -->
+            <section class="card" id="step1">
+                <div class="card-header">
+                    <h2 class="card-title">
+                        <span class="step-number">1</span>
+                        Student Details
+                    </h2>
+                </div>
+                <div class="card-body">
+                    <div class="form-grid">
+                        <div class="form-group">
+                            <label for="branch">Branch</label>
+                            <input type="text" id="branch" placeholder="e.g., ECE, CSE" class="input">
+                            <span class="hint">Your department code</span>
+                        </div>
+                        <div class="form-group">
+                            <label for="batch">Batch</label>
+                            <input type="text" id="batch" placeholder="e.g., A1, B2" class="input">
+                            <span class="hint">Your batch identifier</span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="useAI" class="checkbox">
+                            <span class="checkbox-text">
+                                <span class="checkbox-title">✨ Use AI Refinement</span>
+                                <span class="checkbox-desc">Automatically clean and group subject names using AI</span>
+                            </span>
+                        </label>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Step 2: Subject Selection -->
+            <section class="card" id="step2">
+                <div class="card-header">
+                    <h2 class="card-title">
+                        <span class="step-number">2</span>
+                        Select Subjects
+                    </h2>
+                    <button class="btn btn-secondary" id="fetchSubjectsBtn">
+                        <span class="btn-icon">🔍</span>
+                        Discover Subjects
+                    </button>
+                </div>
+                <div class="card-body">
+                    <div id="subjectsLoading" class="loading-state" style="display: none;">
+                        <div class="spinner"></div>
+                        <p>Analyzing timetable data...</p>
+                    </div>
+                    <div id="subjectsContainer" style="display: none;">
+                        <div class="search-box">
+                            <input type="text" id="subjectSearch" placeholder="🔍 Search subjects..." class="input">
+                        </div>
+                        <div id="subjectsList" class="subjects-grid"></div>
+                        <div class="selected-count" id="selectedCount">0 subjects selected</div>
+                    </div>
+                    <div id="subjectsPlaceholder" class="placeholder">
+                        Click "Discover Subjects" to load available courses
+                    </div>
+                </div>
+            </section>
+
+            <!-- Step 3: Generate -->
+            <section class="card" id="step3">
+                <div class="card-header">
+                    <h2 class="card-title">
+                        <span class="step-number">3</span>
+                        Generate Timetable
+                    </h2>
+                </div>
+                <div class="card-body">
+                    <button class="btn btn-primary btn-large" id="generateBtn" disabled>
+                        <span class="btn-icon">⚡</span>
+                        Generate My Timetable
+                    </button>
+                </div>
+            </section>
+
+            <!-- Results -->
+            <section class="card" id="resultsSection" style="display: none;">
+                <div class="card-header">
+                    <h2 class="card-title">
+                        <span class="step-number">✓</span>
+                        Your Timetable
+                    </h2>
+                    <button class="btn btn-secondary" id="downloadBtn">
+                        <span class="btn-icon">⬇️</span>
+                        Download CSV
+                    </button>
+                </div>
+                <div class="card-body">
+                    <div id="timetableContainer" class="timetable-wrapper"></div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Made with ❤️ for IIIT Students | Powered by AI</p>
+        </footer>
+    </div>
+
+    <script src="/static/app.js?v=2"></script>
+</body>
+
+</html>

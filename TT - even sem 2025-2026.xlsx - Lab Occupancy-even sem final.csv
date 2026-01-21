@@ -1,0 +1,156 @@
+,,"भारतीय सूचना प्रौद्योगिकी संस्थान, नागपुर.
+Indian Institute of Information Technology, Nagpur.",,,,,,,,,
+,"सत्र 2025-26 के विषम सेमेस्टर के प्रयोगशाला सत्रों के लिए संस्थान की समय सारणी।
+Institute Time Table for Laboratory Sessions of Even Semester of Session 2025-26.",,,,,,,,,,
+Lab Name/ No.,Days,8:00-8:55,9:00-9:55,10:00-10:55,11:00-11:55,12:00-12:55,13:00-13:55,14:00-14:55,15:00-15:55,16:00-16:55,17:00-17:55
+Electronics Lab,Monday,,DE-ECE-II-A2-PH/HG,,AE-CSD-II-A1-SB,,,DE-ECE-II-B2,,,
+,Tuesday,,DE-CSE-II-A2-YK,,DE-CSE-II-A1-PH,,,DE-CSE-II-B1-RS,,DE-CSE-II-B2-YK,
+,Wednesday,,DE-CSE-II-C1-RS,,DE-CSE-II-C2-RS,,,AE-CSH-II-A1-SB,,AE-CSH-II-A2-SB,
+,Thursday,,,,DE-ECE-II-A1-GG,,,DE-ECE-II-B1-PH,,,
+,Friday,,,,AE-CSD-II-A2-YK,,,,,,
+VLSI lab,Monday,,,,,,,,,,
+,Tuesday,,,,,,,CMOS-ECE-VI-A1-MT,,,
+,Wednesday,,MPMC-IoT-IV-A2-SM,,,,,FML-ECE-A2-ND,,FML-ECE-A1-ND,
+,Thursday,,,CMOS-ECE-VI-B2-PP,,,,,,DnM-ECE-A1-SD,
+,Friday,,,,CMOS-ECE-VI-B1-PP,,,CMOS-ECE-VI-A2-MT,,DnM-ECE-A2-SD,
+Electrical Lab,Monday,,,,,,,,,,
+,Tuesday,,,,,,,,,,
+,Wednesday,,,,,,,,,,
+,Thursday,,,,,,,,,,
+,Friday,,,,,,,,,,
+Signal Processing Lab,Monday,,,,DSP-ECE-IV-B1-KNS,,,DSDH-IoT-II-A1-SD,,DSDH-IoT-II-A2-NS,
+,Tuesday,,,,DSPA-IoT-IV-A1-NA,,,WC-ECE-VI-A2-,,,
+,Wednesday,,,,DSPA-IoT-IV-A2-NA,,,DIP-ECE-A1-TJ,,DIP-ECE-A2-TJ,
+,Thursday,,,WC-ECE-VI-B1,,,,DSP-ECE-IV-A1-PS,,WSN-ECE-A2-RRK,
+,Friday,,DSP-ECE-IV-B2-PS,,WC-ECE-VI-B2,,,DSP-ECE-IV-A2-PS,,WC-ECE-VI-A1,
+Communication Lab,Monday,,,,,,,,,,
+,Tuesday,,COMSYS-IoT-IV-A1-GG,,AC-ECE-IV-B1-RP,,,AC-ECE-IV-A1-BVN,,,
+,Wednesday,,,,AC-ECE-IV-B2-RP,,,AC-ECE-IV-A2-BVN,,,
+,Thursday,,,,,,,AICF-IoT-II-A1-NS,,AICF-IoT-II-A2-NS,
+,Friday,,,,COMSYS-IoT-IV-A2-GG,,,,,,
+Embedded Lab,Monday,,WS3-IoT-IV-A2-NA,,WS3-IoT-IV-A2-NA,,,,,,
+,Tuesday,,,,,,,WS1-IoT-II-A1-TM,,WS1-IoT-II-A1-TM,
+,Wednesday,,,,,,,,WS1-IoT-II-A2-MT,,
+,Thursday,,MPMC-IoT-IV-A1-SM,,,,,,,,
+,Friday,,WS3-IoT-IV-A1-MP,,WS3-IoT-IV-A1-MP,,,,,WS1-IoT-II-A2-MT,
+Robotics and Project Lab,Monday,,,,,,,,,,
+,Tuesday,,,,,,,,,,
+,Wednesday,,,,,,,,,,
+,Thursday,,,,,,,,,,
+,Friday,,,,,,,,,WSN-ECE-A1-RRK,
+M & G Lab,Monday,,"MG (CSE-II-A1)
+Dr. P. Joshi",,"MDI (IoT-IV-A1)
+Dr. P. Joshi",,,,,,
+,Tuesday,,,,"MG (CSE-II-C2)
+Dr. Anup Rajak",,,"MG (CSE-II-B2)
+Dr. Anup Rajak",,,
+,Wednesday,,,,"MG (CSE-II-A2)
+Dr. P. Joshi",,,,,,
+,Thursday,,,,"MDI (IoT-IV-A2)
+Dr. P. Joshi",,,,,,
+,Friday,,,,"MG (CSE-II-C1)
+Dr. Anup Rajak",,,,"MG (CSE-II-B1)
+Dr. Anup Rajak",,
+LAB-1,Monday,,BDA (CSE-VI),,,,SDA(CSD-IV-A1),,AP (CSA-II-A1),,
+,Tuesday,,DS (CSD-II-A1),,DS(ECE-II-A2),,,,DAA(CSE-IV-C1),,
+,Wednesday,,,CNS (CSE-VI-C1)	,,,,,ITW-1(CSA-II-A2),,
+,Thursday,,AP (CSE-II-C1),,AP (CSE-II-C2),,DAA (CSE-IV-A2),,OS (CSE-IV-A2),,
+,Friday,,DHV(CSA-IV-A1),,DS (CSE-II-C2),,,,AP (CSA-II-A2),,
+LAB-2,Monday,,WP (CSD-II-A1),,AIMlWS-II(CSA-IV-A2),,SDA(CSD-IV-A2),,AP (CSH-II-A2)        ,,
+,Tuesday,,WP (CSD-II-A2),,DBMS(CSA-IV-A2),,,,DS (ECE-II-B1),,
+,Wednesday,,WP (CSD-II-A1),,AP(ECE-II-A2),,DPPL(CSE-IV-C1),,CVDL (CSD-VI-A1),,
+,Thursday,,WP (CSD-II-A2),,ML(CSA-IV-A2),,ITW-2(CSE-IV-C1),,DAA(CSD-IV-A2),,
+,Friday,,Compiler(CSE-VI-C1),,Compiler(CSE-VI-C3),,,,DS (CSH-II-A2),,
+LAB-3,Monday,,,,OS(CSA-IV-A1),,,,DS (CSE-II-B1),,
+,Tuesday,,AIMlWS-II(CSA-IV-A1),,ML(CSA-IV-A1),,,,DS (CSA-II-A2),,
+,Wednesday,,AIMlWS-II(CSA-IV-A1),,DAA(CSA-IV-A1),,,DCS (CSE-VIII-B1),,,
+,Thursday,,,,OS(CSE-IV-B2),,,DCS (CSE-VIII-B2),,,
+,Friday,,AIMlWS-II(CSA-IV-A2),,OS(CSA-IV-A2),,ITW-2(CSE-IV-C1),,RL (CSA-VI-A2),,
+,Saturday,,,,DHV(CSA-IV-A1),,,,,,
+LAB-4,Monday,,,ML-1 (CSE-VI-Batch 1),,,,,ITW-2(CSE-IV-C2),,
+,Tuesday,,OS(CSH-IV-A1),,DS (CSE-II-A2),,,GenAI (CSA/CSD-VIII-B1),,,
+,Wednesday,,OS(CSH-IV-A2),,DAA(CSH-IV-A2),,,IPC (CSE-VIII-Batch 1),,OS (ECE-VI),
+,Thursday,,,,DAA(CSH-IV-A1),,,IPC (CSE-VIII-Batch 2),,,
+,Friday,,OS(CSE-IV-B1),,CVDL (CSD-VI-A2),,AP (CSE-II-B1),,,,
+,Saturday,,,,DHV(CSA-IV-A2),,,,,,
+LAB-5,Monday,,,,DS (CSE-II-A1),,,,ITW-2(CSE-IV-A1),,
+,Tuesday,,DAA(CSA-IV-A2),,AP(ECE-II-A1),,TPDS-II(CSD-IV-A2),,OS(CSE-IV-C2),,
+,Wednesday,,CNS (CSE-VI-C3)        ,,ITW-2(CSE-IV-B2),,DAA(CSE-IV-C2),,CVT(CSH-VI-A2),,
+,Thursday,,,,AP (CSE-II-A1),,OS(CSD-IV-A2),,CVT(CSH-VI-A1),,
+,Friday,,,AP (CSE-II-A2),,,,ITW-1(CSA-II-A1),,,
+LAB-6,Monday,,,,,,,,DS (CSH-II-A1),,
+,Tuesday,,,ML-1(CSE-VI Batch 3),,,,,TPDS-II(CSD-IV-A1),,
+,Wednesday,,,ML-2(CSE-VI/CSH-VIII Batch 3),,,,,DS (CSA-II-A1),,
+,Thursday,,,,ITW-2(CSE-IV-B1),,OS (CSE-IV-A1),,AP (CSE-II-B2),,
+,Friday,,CNS (CSE-VI-B2),,CNS (CSE-VI-B1),,TPDS-II(CSD-IV-A2),,ITW-2(CSE-IV-C2),,
+LAB-7,Monday,,ML-2 (CSE-VI-Batch 1),,DAA(CSE-IV-B1),,,,,,
+,Tuesday,,ML-2 (CSE-VI-Batch 2),,,,,,DPPL (CSE-IV-A1),,
+,Wednesday,,,,DS (CSE-II-C1),,DAA (CSE-IV-A1),,DS (CSE-II-B2),,
+,Thursday,,Compiler(CSE-VI-A1),,DS (CSD-II-A2),,DAA(CSD-IV-A1),,OS(CSE-IV-C1),,
+,Friday,,Compiler(CSE-VI-A2),,DS(ECE-II-A1),,OS(CSD-IV-A1),,,,
+,Saturday,,,2D3D(CSH-VI-A1),,,,AVR(CSH-VI-A1),,,
+LAB-8,Monday,,DBMS(CSA-IV-A1),,DPPL(CSE-IV-B2),,,,,,
+,Tuesday,,CNS (CSE-VI-C2),,DAA(CSE-IV-B2),,,AP (CSH-II-A1),,,
+,Wednesday,,,,,,,GPU (CSH-VI/CSA/CSD-VIII-B1),,,
+,Thursday,,,Compiler(CSE-VI-B2),,,,GenAI (CSA/CSD-VIII-B2),,,
+,Friday,,,Compiler(CSE-VI-C2),,,,GPU (CSH-VI/CSA/CSD-VIII-B2),,,
+,Saturday,,,2D3D(CSH-VI-A2),,,,AVR(CSH-VI-A2),,,
+"LAB-9
+
+(Admin Building,
+1st Floor)",Monday,,,,ITW-2(ECE-IV-B2),,,RL (CSA-VI-A1),,,
+,Tuesday,,,,,,,ITW-2(ECE-IV-A2),,ITW-2(ECE-IV-A2),
+,Wednesday,,,Compiler(CSE-VI-B1)	,,,,,DS(IoT-II-A1),,
+,Thursday,,CNS(CSE-VI-A2),,ITW-2(ECE-IV-B2),,,,DS(IoT-II-A2),,
+,Friday,,CNS(CSE-VI-A1),,ITW-2(ECE-IV-B1),,,,DS (ECE-II-B2),,
+"LAB-10
+
+(Admin Building,
+2nd Floor)",Monday,,,,AI (CSH-VIII),,,BDA (CSD-VI-A1),,,
+,Tuesday,,DHV(CSA-IV-A2),,DPPL(CSE-IV-B1),,,BDA (CSD-VI-A2),,,
+,Wednesday,,,,DBMS(IoT-IV-A1),,,,DPPL (CSE-IV-A2),,
+,Thursday,,,,ITW-2(ECE-IV-B1),,,,,,
+,Friday,,DBMS (IoT-IV-A2),,ITW-2(CSE-IV-B2),,DPPL(CSE-IV-C2),,AP(ECE-II-B1),,
+"LAB-11
+
+(Admin Building,
+2nd Floor)",Monday,,,,ITW-2(CSH-IV-A1),,,ITW-2(ECE-IV-A1),,ITW-2(ECE-IV-A1),
+,Tuesday,,ML-1 (CSE-VI-Batch 2),,ITW-2(CSH-IV-A2),,ITW-2(CSE-IV-A2),,AP(ECE-II-B2),,
+,Wednesday,,,,ITW-2(CSE-IV-B1),,ITW-2(CSE-IV-A2),,DMW (CSD-VI-A2),,
+,Thursday,,,,ITW-2(CSH-IV-A2),,,,DMW (CSD-VI-A1),,
+,Friday,,,,ITW-2(CSH-IV-A1),,ITW-2(CSE-IV-A1),,TPDS-II(CSD-IV-A1),,
+Communication Skill (English),Monday,,,,"COMSK (CSE-II-C2)
+Dr. Madhuri Tayade",,,,"COMSK (CSA-II-A2)
+VF for Eng",,
+,Tuesday,,,,"COMSK (CSE-II-C1)
+Dr. Madhuri Tayade",,,"COMSK (IoT-II-A2)
+VF for Eng",,,
+,Wednesday,,,,"COMSK (CSE-II-A1)
+Dr. Madhuri Tayade",,,"COMSK (CSE-II-B1)
+Dr. Madhuri Tayade",,,
+,Thursday,,,,"COMSK (CSE-II-A2)
+Dr. Madhuri Tayade",,,,"COMSK (CSA-II-A1)
+VF for Eng",,
+,Friday,,,,,,,"COMSK (IoT-II-A1)
+VF for Eng",,"COMSK (CSE-II-B2)
+Dr. Madhuri Tayade",
+Physics Lab,Monday,,,,,,,,,,
+,Tuesday,,,,,,,,,,
+,Wednesday,,,"AS (ECE-II-A1)
+Dr. Aatish Dryapurkar",,,,"AS (ECE-II-B1)
+Dr. Shailesh",,"AS (ECE-II-B2)
+Dr. Shailesh",
+,Thursday,,,,,,,,,,
+,Friday,,,,"AS (ECE-II-A2)
+Dr. Aatish Dryapurkar",,,,,,
+"SPORTS 
+(Hostel Playground)",Monday,,,,,,,,,,
+,Tuesday,,,,,,,,,,
+,Wednesday,,,,,,,,,SPORTS (ECE-II- Section A),
+,Thursday,,,,,,,,,SPORTS (ECE-II- Section B),
+,Friday,,,,,,,,,,
+,Monday,,,,,,,,,,
+,Tuesday,,,,,,,,,,
+,Wednesday,,,,,,,,,,
+,Thursday,,,,,,,COOMSK Class (CSA-II-A) at CR-303,,,
+,Friday,,,,,,,COMSK Class (IoT-II) at CR-101,,,

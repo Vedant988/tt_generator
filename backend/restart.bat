@@ -1,0 +1,6 @@
+@echo off
+echo Stopping any running Python servers...
+taskkill /F /IM python.exe 2>nul
+timeout /t 2 /nobreak >nul
+echo Starting FastAPI server...
+python main.py
