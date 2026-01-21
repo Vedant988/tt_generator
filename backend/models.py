@@ -10,7 +10,7 @@ class TimetableRequest(BaseModel):
     """Request model for timetable generation"""
     selected_subjects: List[str]
     branch: Optional[str] = ""
-    batch: Optional[str] = ""
+    batch: Optional[str] = ""  # Deprecated: No longer used for filtering, all batches shown
 
 class SubjectResponse(BaseModel):
     """Response model for available subjects"""

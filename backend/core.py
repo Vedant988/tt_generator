@@ -188,11 +188,9 @@ def extract_timetable(selected_subjects, subject_mapping, branch="", batch=""):
                     part = part.strip()
                     if not part: continue
                     
-                    # Student Filter (Lab Only)
+                    # Student Filter (Lab Only) - Keep branch filter, remove batch filter
                     if source_type == "Lab":
                         if branch and branch.lower() not in part.lower():
-                            continue
-                        if batch and batch.lower() not in part.lower():
                             continue
 
                     # Hybrid Match

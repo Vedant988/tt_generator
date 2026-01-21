@@ -250,7 +250,7 @@ else:
 # STUDENT FILTERS
 st.sidebar.header("2. Student Details")
 branch_input = st.sidebar.text_input("Branch (e.g. ECE, CSE)", help="Filter Labs by Branch").strip()
-batch_input = st.sidebar.text_input("Batch (e.g. A1, B2)", help="Filter Labs by Batch").strip()
+# Batch filtering removed - all batches will be shown in the timetable
 
 # GROQ CONFIG
 st.sidebar.header("3. AI Configuration")
@@ -368,9 +368,7 @@ if st.sidebar.button("Generate Unified Timetable"):
                             # Check Branch (Case Insensitive)
                             if branch_input and branch_input.lower() not in part.lower():
                                 continue
-                            # Check Batch
-                            if batch_input and batch_input.lower() not in part.lower():
-                                continue
+                            # Batch filtering removed - all batches will be shown
 
                         # Hybrid Match
                         display_subj = None
